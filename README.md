@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [personal portfolio](https://utsavgurmachhan.com.np)
 
-- 👨‍💻 All of my projects are available at [https://utsavgurmachhan.com.np/portfolio](https://utsavgurmachhan.com.np/portfolio)
+- 👨‍💻 All of my projects are available at [https://ryuuzu.pythonanywhere.com/portfolio](https://ryuuzu.pythonanywhere.com/portfolio)
 
 - 💬 Ask me about **Python, Django**
 
