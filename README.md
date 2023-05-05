@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utsav Gurmachhan Magar</h1>
 <h3 align="center">A passionate python developer from Nepal.</h3>
 
-- 🔭 I’m currently working on [personal portfolio](https://utsavgurmachhan.com.np)
-
-- 👨‍💻 All of my projects are available at [https://ryuuzu.pythonanywhere.com/portfolio](https://ryuuzu.pythonanywhere.com/portfolio)
+- 🔭 I’m currently working on [personal portfolio](https://ryuuzu.xyz/)
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **contact@utsavgurmachhan.com.np**
+- 📫 How to reach me **contact@ryuuzu.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
