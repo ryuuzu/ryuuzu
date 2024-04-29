@@ -26,6 +26,11 @@
 <quote>Provided by <a href="https://github-readme-stats.vercel.app/">GitHub Readme Stats</a></quote>
 	  </td>
   </tr>
+  <tr>
+	  <td colspan="2">
+		  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryuuzu&theme=dark" alt="GitHub Streak" /></a>
+	  </td>
+  </tr>
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
