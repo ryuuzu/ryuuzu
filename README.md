@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utsav Gurmachhan Magar</h1>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Utsav+Gurmachhan+Magar" align="center" alt="Typing SVG" /></a>
 <h3 align="center">A passionate python developer from Nepal.</h3>
 
 - 🔭 I’m currently working on [personal portfolio](https://ryuuzu.xyz/)
