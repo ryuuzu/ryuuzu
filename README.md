@@ -1,4 +1,3 @@
-
 # Hi, I'm Utsav Gurmachhan Magar 👋
 
 I'm a Software Engineer from Nepal, passionate about
@@ -6,6 +5,7 @@ building scalable applications and solving real-world
 engineering problems.
 
 🌐 Portfolio: https://ryuuzu.xyz
+
 💻 GitHub: https://github.com/ryuuzu
 
 ## About Me
